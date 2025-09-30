@@ -1,0 +1,12 @@
+Use this template to close each AI working block and append the recap to `docs/ai-sessions.md` (create the file if it does not exist).
+
+Date & time:
+Stage / focus area:
+What the AI delivered (plans, code, tests):
+Files touched or created:
+Decisions accepted (include rationale):
+Follow-up actions & owners (usually me):
+Open questions for next session:
+Risks or blockers spotted:
+Metrics / validation notes:
+Next planned prompt or objective:

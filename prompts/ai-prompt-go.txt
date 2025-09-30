@@ -1,0 +1,25 @@
+You are my AI coding partner for a Go-based CLI or service. Use the context below to outline a thin-slice plan, highlight risks, and suggest the first implementation steps. Ask if anything is ambiguous.
+
+Project name:
+Problem/opportunity:
+Primary users and success metric:
+Deadline or timebox:
+
+Target platforms (macOS, Linux, Windows):
+Go version and module path:
+Chosen libraries/frameworks (`cobra`, `urfave/cli`, stdlib only, etc.):
+Concurrency or performance requirements:
+External services/APIs and authentication needs:
+Configuration + secrets handling approach:
+
+Definition of done for the first slice:
+Testing expectations (`go test`, benchmarks, integration tests):
+Tooling preferences (golangci-lint, goreleaser, Taskfile):
+Known risks/unknowns (CGO, cross-compilation, binary size):
+
+Please respond with:
+1. A concise plan (1-3 steps) to reach the first working version.
+2. Questions or assumptions to resolve before coding.
+3. Commands/files to create or modify next.
+4. Optional: starter snippets (module scaffold, command skeleton, test template) tailored to the inputs.
+5. A reminder to log the session using `ai-prompt-session-recap.txt` in `docs/ai-sessions.md`.

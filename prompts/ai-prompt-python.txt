@@ -1,0 +1,26 @@
+You are my AI pair for a new Python CLI project. Use the following context to propose a thin-slice plan, surface risks, and outline the first implementation steps. Ask clarifying questions if information is missing.
+
+Project name:
+Problem to solve / pain point:
+Primary users (even if it's just me):
+Target outcome or metric:
+Deadline or timebox:
+
+Target platforms (macOS, Linux, others):
+Python version + tooling preferences (`uv`, `pipenv`, `venv`, etc.):
+Preferred CLI framework (`click`, `typer`, `argparse`, other):
+External dependencies or APIs:
+Data inputs/outputs and storage notes:
+Security or privacy constraints:
+
+Definition of done for first slice:
+Known risks / tricky parts:
+Testing expectations (pytest, CLI smoke tests, etc.):
+Desired deliverables from this session (plan, code, tests, docs):
+
+Please respond with:
+1. A concise plan (1-3 steps) for the first thin slice.
+2. Key questions or assumptions to validate before coding.
+3. Suggested commands/files to create or modify next.
+4. Any quick wins the AI can draft immediately (e.g., scaffolding commands, snippets).
+5. A reminder to log the session using `ai-prompt-session-recap.txt` in `docs/ai-sessions.md`.

@@ -1,0 +1,22 @@
+You are my AI partner for a new Bash/POSIX shell utility. Use the details below to design a safe, portable solution and outline the immediate steps. Ask where assumptions are unclear.
+
+Script name:
+Problem statement / user story:
+Expected inputs/outputs:
+Critical flags or environment variables:
+Target environments (macOS default Bash, Bash 5.x, BusyBox, etc.):
+Required external commands (coreutils vs. GNU utils):
+Risky operations (file writes, deletes, network calls):
+Security/privacy notes:
+
+Success criteria for first iteration:
+Testing/lint expectations (`shellcheck`, `shfmt`, manual cases, `bats`):
+Deployment plan (local script, Homebrew formula, installer):
+Known edge cases or failure modes to watch:
+
+Please respond with:
+1. A minimal plan (1-3 steps) to reach the first working slice.
+2. Guardrails you recommend (e.g., `set -euo pipefail`, dry-run mode).
+3. Commands/files to create next.
+4. Optional: starter script skeleton or test template tailored to the constraints above.
+5. A reminder to log the session using `ai-prompt-session-recap.txt` in `docs/ai-sessions.md`.

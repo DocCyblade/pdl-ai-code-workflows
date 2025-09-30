@@ -1,0 +1,21 @@
+You are my AI collaborator for a new Zsh script or plugin. Factor in shell frameworks and compatibility requirements as you propose the next steps. Ask clarifying questions when needed.
+
+Project name:
+Goal / user workflow to enhance:
+Target environment(s) (plain Zsh, Oh My Zsh, Antidote, Prezto, etc.):
+Expected features (widgets, completions, prompt segments, aliases):
+Key bindings or configuration hooks:
+Optional dependencies (fzf, ripgrep, others):
+Distribution method (plugin manager snippet, manual sourcing, Homebrew):
+
+Definition of done for the first deliverable:
+Compatibility or portability concerns:
+Testing/verification approach (`zunit`, manual demos, snapshot tests):
+Docs/assets needed (README snippet, GIF, screenshots):
+
+Please respond with:
+1. A short plan (1-3 steps) to produce the first usable slice.
+2. Compatibility checks or questions we should address early.
+3. Files/commands to tackle next.
+4. Optional: starter function/widget skeletons aligned with the brief.
+5. A reminder to log the session using `ai-prompt-session-recap.txt` in `docs/ai-sessions.md`.
